@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-Adarsh9452/Adarsh9452 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Adarsh/Adarsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
